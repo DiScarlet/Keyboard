@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Keyboard")(type "KiCad")(uri "C:/Hardware/Keyboard")(options "")(descr ""))
+  (lib (name "XIAO")(type "KiCad")(uri "${KIPRJMOD}/XIAO.pretty")(options "")(descr ""))
+)
