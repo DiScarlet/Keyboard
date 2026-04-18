@@ -1,0 +1,3 @@
+[submodule "macropad"]
+	path = macropad
+	url = https://github.com/DiScarlet/macropad-mini
