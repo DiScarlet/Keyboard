@@ -1,0 +1,18 @@
+Links to parts:
+
+- Diodes: 1N4148W SOD123 (100 pcs) $1.70
+https://pl.aliexpress.com/item/1005007160563285.html?spm=a2g0o.productlist.main.1.4071SVjeSVjetE&algo_pvid=cb4604f6-ec81-467a-b6bc-8bba5029986b&algo_exp_id=cb4604f6-ec81-467a-b6bc-8bba5029986b-0&pdp_ext_f=%7B%22order%22%3A%221470%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%211.84%211.70%21%21%2112.48%2111.51%21%402103834817766240889005440ee6cc%2112000039653324544%21sea%21PL%211891016133%21X%211%210%21n_tag%3A-29919%3Bd%3A226a6996%3Bm03_new_user%3A-29895&curPageLogUid=El4dvR8vBOmB&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007160563285%7C_p_origin_prod%3A
+
+- Resistors(2 * 100 pcs) $0.46 * 2 = $0.92: 
+0805 SMD 820k 
+https://pl.aliexpress.com/item/1005009040750970.html?spm=a2g0o.productlist.main.6.6da9XyQMXyQMH8&algo_pvid=b055a222-5b3a-4608-bc60-db68747e3dcb&algo_exp_id=b055a222-5b3a-4608-bc60-db68747e3dcb-5&pdp_ext_f=%7B%22order%22%3A%221526%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%210.47%210.43%21%21%210.47%210.43%21%40211b6a7a17766244920376714eab2d%2112000047682317096%21sea%21PL%211891016133%21X%211%210%21n_tag%3A-29919%3Bd%3A226a6996%3Bm03_new_user%3A-29895&curPageLogUid=AGrMuZkmSe8t&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009040750970%7C_p_origin_prod%3A
+0805 SMD 2M	
+https://pl.aliexpress.com/item/1005009040750970.html?spm=a2g0o.productlist.main.6.6da9XyQMXyQMH8&algo_pvid=b055a222-5b3a-4608-bc60-db68747e3dcb&algo_exp_id=b055a222-5b3a-4608-bc60-db68747e3dcb-5&pdp_ext_f=%7B%22order%22%3A%221526%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%210.47%210.43%21%21%210.47%210.43%21%40211b6a7a17766244920376714eab2d%2112000047682317096%21sea%21PL%211891016133%21X%211%210%21n_tag%3A-29919%3Bd%3A226a6996%3Bm03_new_user%3A-29895&curPageLogUid=AGrMuZkmSe8t&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009040750970%7C_p_origin_prod%3A
+
+- Switches: Kailh Low profile Choc switch 1350 RGB (30pcs FOR NOW!) $17.40
+https://pl.aliexpress.com/item/1005005883472162.html?spm=a2g0o.productlist.main.2.7b9a7uF57uF5oj&algo_pvid=1b0d85ee-83d9-4f58-935f-d6686d6ae3d9&algo_exp_id=1b0d85ee-83d9-4f58-935f-d6686d6ae3d9-1&pdp_ext_f=%7B%22order%22%3A%22838%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%2118.77%2117.36%21%21%2118.77%2117.36%21%402103868817766267169762110ecf95%2112000034695877988%21sea%21PL%211891016133%21X%211%210%21n_tag%3A-29919%3Bd%3A226a6996%3Bm03_new_user%3A-29895&curPageLogUid=GOlQP1vZ6fAM&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005883472162%7C_p_origin_prod%3A
+
+- FIND KEYCAPS!!!!
+
+- Microcontroller: XIAO BLE nRF52840 US $11.71 (no pins BTW!)
+https://pl.aliexpress.com/item/1005006988954136.html?spm=a2g0o.productlist.main.1.4d5e4a22ETkb92&algo_pvid=e1a2151c-e9bf-4501-a83e-111b06672463&algo_exp_id=e1a2151c-e9bf-4501-a83e-111b06672463-0&pdp_ext_f=%7B%22order%22%3A%221990%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%2112.82%2111.71%21%21%2187.03%2179.53%21%40211b613917766272706867606e6fe2%2112000042942288177%21sea%21PL%211891016133%21X%211%210%21n_tag%3A-29919%3Bd%3A226a6996%3Bm03_new_user%3A-29895&curPageLogUid=9ruQFCnUwT2p&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006988954136%7C_p_origin_prod%3A
