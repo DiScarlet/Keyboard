@@ -1,6 +1,7 @@
 (fp_lib_table
   (version 7)
   (lib (name "Keyboard")(type "KiCad")(uri "C:/Hardware/Keyboard")(options "")(descr ""))
-  (lib (name "XIAO")(type "KiCad")(uri "${KIPRJMOD}/XIAO.pretty")(options "")(descr ""))
-  (lib (name "Panelization")(type "KiCad")(uri "${KIPRJMOD}/Panelization.pretty")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "C:/Hardware/KiCAD_Libraries/espressif/kicad-libraries-main/footprints/Espressif.pretty")(options "")(descr ""))
+  (lib (name "Panelization")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Panelization.pretty")(options "")(descr ""))
+  (lib (name "XIAO")(type "KiCad")(uri "${KIPRJMOD}/Libraries/XIAO.pretty")(options "")(descr ""))
 )
