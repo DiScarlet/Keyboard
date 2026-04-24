@@ -1,0 +1,16 @@
+1) topics I've researched:
+- how to connect esp32's VIN pin to the LiPo 3.7V battery
+- find ESP32 with an integrated battery charging
+decision:
+For now, I will switch to using the Adafruit HUZZAH32 - ESP32 Feather.
+It has a battery interface already integrated into it. 
+
+Important links: 
+- datasheet: https://cdn-learn.adafruit.com/downloads/pdf/adafruit-huzzah32-esp32-feather.pdf
+- basic info: https://learn.adafruit.com/adafruit-huzzah32-esp32-feather
+- the pinout: https://learn.adafruit.com/assets/133601
+- GH repo: https://github.com/adafruit/Adafruit-HUZZAH32-ESP32-Feather-PCB/tree/master
+- buy: https://www.adafruit.com/product/3591
+- buy locally(€ 16.79)	: https://www.kiwi-electronics.com/en/adafruit-esp32-s2-feather-4-mb-flash-plus-2-mb-psram-11483?gad_source=1&gad_campaignid=23547300929&gbraid=0AAAAADuMvueYNaSDfVFe007xmM8wb-Rlm&gclid=CjwKCAjwhqfPBhBWEiwAZo196iwVvBacgmM0L3PNJ0X62VN46rr7ImIIlT08sErZ5WCo1mch8u6WhhoCh-cQAvD_BwE
+
+TODO: create a symbol for KiCAD or find it in the defaults.
