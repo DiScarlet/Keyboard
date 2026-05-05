@@ -2199,16 +2199,6 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 95.25) (xy 242.57 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "33adaff9-aefd-45ce-bff1-7b3cc5aa379d")
-	)
-	(wire
-		(pts
 			(xy 110.49 41.91) (xy 127 41.91)
 		)
 		(stroke
@@ -2759,6 +2749,16 @@
 	)
 	(wire
 		(pts
+			(xy 243.84 87.63) (xy 242.57 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c51af57-a986-4d25-b2d1-37719b3ae99f")
+	)
+	(wire
+		(pts
 			(xy 133.35 52.07) (xy 133.35 69.85)
 		)
 		(stroke
@@ -2906,6 +2906,16 @@
 			(type default)
 		)
 		(uuid "bd39c5b3-b673-453c-93ba-2ccc9a5a7469")
+	)
+	(wire
+		(pts
+			(xy 226.06 95.25) (xy 243.84 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd7fc830-8ca5-4e80-b27d-a7cdd141911e")
 	)
 	(wire
 		(pts
@@ -6505,7 +6515,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3aceff91-378d-40aa-853c-8e1507ddc559")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR01"
 			(at 66.04 113.03 0)
 			(effects
 				(font
@@ -6555,7 +6565,7 @@
 		(instances
 			(project ""
 				(path "/76daee2a-e779-4aa0-aa95-eaf0bba9e97a"
-					(reference "#PWR03")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -11586,7 +11596,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 242.57 91.44 90)
+		(at 243.84 91.44 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11595,7 +11605,7 @@
 		(fields_autoplaced yes)
 		(uuid "f478c6c4-601d-4226-bd9d-9b221f96d8ed")
 		(property "Reference" "D52"
-			(at 245.11 90.1699 90)
+			(at 246.38 90.1699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11604,7 +11614,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 245.11 92.7099 90)
+			(at 246.38 92.7099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11613,7 +11623,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 242.57 91.44 0)
+			(at 243.84 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11622,7 +11632,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 242.57 91.44 0)
+			(at 243.84 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11631,7 +11641,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 242.57 91.44 0)
+			(at 243.84 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11640,7 +11650,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 242.57 91.44 0)
+			(at 243.84 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11649,7 +11659,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 242.57 91.44 0)
+			(at 243.84 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
