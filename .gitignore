@@ -4,3 +4,7 @@
 .\#*
 *.lck
 fp-info-cache
+*.log
+*.kicad_sch-bak
+*.lck
+*.log
