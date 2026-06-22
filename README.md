@@ -63,6 +63,18 @@ The custom PCB uses ESP32 Feather.
 
 ![3D render of the assembled Duck Keyboard PCB](Images/PCB/Screenshot%202026-06-18%20180553.png)
 
+## Assembly Instructios
+1. Flash the ESP32 Feather with the firmware.
+2. Solder the hot-swap sockets and the ESP32 Feather to the PCB.
+3. Install the switches into the hot-swap sockets.
+4. 3D print the top case, bottom case, and keycaps.
+5. Place the PCB assembly into the case and secure it using M2 screws.
+6. Install the keycaps onto the switches.
+7. 3D print the decorative duck and palm tree elements.
+8. Attach the decorations to the designated area of the top case using instant glue (cyanoacrylate).
+9. (Optional) Print the angle-of-attack wedge to tilt the keyboard toward the user for a more comfortable typing position.
+
+
 ## File Structure
 
 The project layout is:

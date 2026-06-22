@@ -4081,7 +4081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Panelization:mouse-bite-5mm-slot"
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 132.08 181.61 0)
 			(effects
 				(font
@@ -6702,70 +6702,6 @@
 			(project "keyboard"
 				(path "/76daee2a-e779-4aa0-aa95-eaf0bba9e97a"
 					(reference "SW39")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 158.75 181.61 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "470e73cc-7ec9-4729-b6bc-a10c9ff4ce7b")
-		(property "Reference" "H4"
-			(at 161.29 181.6099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 161.29 182.8799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Panelization:mouse-bite-5mm-slot"
-			(at 158.75 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 158.75 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 158.75 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "keyboard"
-				(path "/76daee2a-e779-4aa0-aa95-eaf0bba9e97a"
-					(reference "H4")
 					(unit 1)
 				)
 			)
@@ -11098,7 +11034,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Panelization:mouse-bite-5mm-slot"
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 140.97 181.61 0)
 			(effects
 				(font
@@ -11338,7 +11274,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Panelization:mouse-bite-5mm-slot"
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 149.86 181.61 0)
 			(effects
 				(font
